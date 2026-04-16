@@ -10,3 +10,5 @@ function fetchFipe($endpoint) {
 
     return json_decode($response, true);
 }
+
+?>
