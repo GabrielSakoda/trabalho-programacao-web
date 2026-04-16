@@ -2,6 +2,12 @@
 
 Projeto PHP para consultar o preço médio de veículos na Tabela FIPE, utilizando a [API FIPE Online](https://fipe.online).
 
+## Integrantes
+
+- Gabriel Otani Sakoda
+- Ana Beatriz Gaggion
+- Beatriz Gonella
+
 ## Funcionalidades
 
 - Consulta de **carros**, **motos** e **caminhões**
@@ -13,7 +19,7 @@ Projeto PHP para consultar o preço médio de veículos na Tabela FIPE, utilizan
 - PHP (cURL)
 - HTML + CSS
 
-## Como rodar
+## Como rodar (Linux)
 
 1. Instale o PHP com suporte a cURL:
    ```bash
@@ -26,6 +32,8 @@ Projeto PHP para consultar o preço médio de veículos na Tabela FIPE, utilizan
    ```
 
 3. Acesse no navegador: `http://localhost:8787`
+
+## Se estiver usando Windows, utilize o XAMPP
 
 ## Estrutura
 
